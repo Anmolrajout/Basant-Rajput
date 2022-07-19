@@ -1,0 +1,7 @@
+apt update && apt upgrade
+pkg update 
+pkg upgrade 
+pkg install cmartix
+
+cmatrix
+exit 
