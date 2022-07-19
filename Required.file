@@ -1,7 +1,11 @@
 apt update && apt upgrade
 pkg update 
 pkg upgrade 
-pkg install cmartix
+pkg install toilet
+toilet -f mono12 -F gay "upload the data"
 
-cmatrix
+
+
+
+
 exit 
